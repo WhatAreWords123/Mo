@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Miscellaneous Connectors.LibPkg]
+   Generated File[DSP-1.1-内置电池.GTO]
+   Generated File[DSP-1.1-内置电池.GTP]
+   Generated File[DSP-1.1-内置电池.GTS]
+   Generated File[DSP-1.1-内置电池.GTL]
+   Generated File[DSP-1.1-内置电池.GBL]
+   Generated File[DSP-1.1-内置电池.GBS]
+   Generated File[DSP-1.1-内置电池.GBP]
+   Generated File[DSP-1.1-内置电池.GBO]
+   Generated File[DSP-1.1-内置电池.GKO]
+   Generated File[DSP-1.1-内置电池.GPT]
+   Generated File[DSP-1.1-内置电池.GPB]
+   Generated File[DSP-1.1-内置电池.GD1]
+   Generated File[DSP-1.1-内置电池.GG1]
+   Generated File[DSP-1.1-内置电池.RUL]
+   Generated File[DSP-1.1-内置电池.EXTREP]
+   Generated File[DSP-1.1-内置电池.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 18:03:15 On 2022/9/30
